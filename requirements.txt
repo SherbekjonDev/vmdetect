@@ -1,0 +1,6 @@
+rich>=13.0
+wmi>=1.5.1
+pywin32>=306
+psutil>=5.9
+mss>=9.0
+Pillow>=10.0
